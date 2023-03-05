@@ -54,7 +54,7 @@ function UserFB(props){
     loginBtn = (
       <FacebookLogin
         appId = "457920889320850" //457920889320850 : Chualchai 6210110646
-        // 1075683823003347
+        //476515220730197 : Tanawat
         autoLoad = {true}
         cssClass= "btnFacebook"
         callback = {responseFacebook}
