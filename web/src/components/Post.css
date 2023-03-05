@@ -8,4 +8,7 @@ li{
     list-style-type: none;
     width: 60%;
     margin: auto;
+    border-radius: 10px;
+        border: solid green;
+        background-color: rgb(207, 233, 156);
 }
